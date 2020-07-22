@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mentor-program",
+  "version": "1.0.0",
+  "description": "This repository is used for Nodejs Mentor Program exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claire-Duan/nodejs-mentor-program.git"
+  },
+  "author": "Claire Duan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claire-Duan/nodejs-mentor-program/issues"
+  },
+  "homepage": "https://github.com/Claire-Duan/nodejs-mentor-program#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
