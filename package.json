@@ -4,7 +4,7 @@
   "description": "This repository is used for Nodejs Mentor Program exercise.",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Claire-Duan/nodejs-mentor-program#readme",
   "dependencies": {
+    "csvtojson": "^2.0.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
